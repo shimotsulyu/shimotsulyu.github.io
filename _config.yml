@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Rodolfo Lyu Shimotsu
 description: Engenheiro Elétrico | Desenvolvedor | Pesquisador
+
+social-network-links:
+  email: "rodolfoshimotsu@gmail.com"
+  facebook: https://www.facebook.com/slyu89/
+  github: https://github.com/shimotsulyu
+  linkedin: https://www.linkedin.com/in/rodolfo-lyu-shimotsu-127860179/
