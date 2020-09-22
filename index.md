@@ -14,7 +14,7 @@ Graduação Engenharia Elétrica (2015 - 2019)
 
 - Bolsa Iniciação Científica: INPE (Instituto de Pesquisas Espaciais) | Estudo e Pesquisa na área de órbitas de satélites artificiais | Ano: Jul/2017 – Jul/2019
 
-- Publicação: Plataforma Interativa Acadêmica Utilizando jogos sérios e inteligência artificial. | Revista Diálogos Interdisciplinares, V. 7 N. 3 (2018)
+- Publicação: Plataforma Interativa Acadêmica Utilizando jogos sérios e inteligência artificial. | Revista Diálogos Interdisciplinares, V. 7 N. 3 | (2018)
 
 ## Participação em Eventos (Apresentação): ENCIBRAC INTERN.
 - Tema: Ferramenta de auxílio no aprendizado para os cursos das engenharias | Ano: Set/2019
