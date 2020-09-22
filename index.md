@@ -17,6 +17,7 @@
 
 ## PERFIL PROFISSIONAL
 Graduado em Engenharia Elétrica (2019), possuo visão estratégica aliada a alta capacidade de desenvolvimento e comunicação, atuando de maneira crítica e detalhista.
+
 A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos relacionado à tecnologia, realizo pesquisas, participo de eventos acadêmicos e publicações de trabalhos.
 
 ## FORMAÇÃO ACADÊMICA
@@ -25,22 +26,22 @@ A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos re
 Graduação Engenharia Elétrica (2015 - 2019)
 
 ## PUBLICAÇÕES E TRABALHOS
-Local | Título | Mes/Ano
------------- | ------------- | -------------
-Colaborador de Pesquisas IEAv (Instituto de Pesquisas Avançadas) | Estudo e Pequisa na área de sistemas autônomos | Jul/2019 – Mar/2020
-Bolsa Iniciação Científica: INPE (Instituto de Pesquisas Espaciais) | Estudo e Pesquisa na área de órbitas de satélites artificiais | Jul/2017 – Jul/2019
-Publicação: Plataforma Interativa Acadêmica Utilizando jogos sérios e inteligência artificial. | Revista Diálogos Interdisciplinares, V. 7 N. 3 | (2018)
+- Colaborador de Pesquisas IEAv (Instituto de Pesquisas Avançadas) | Estudo e Pequisa na área de sistemas autônomos | Jul/2019 – Mar/2020
+
+- Bolsa Iniciação Científica: INPE (Instituto de Pesquisas Espaciais) | Estudo e Pesquisa na área de órbitas de satélites artificiais | Jul/2017 – Jul/2019
+
+- Publicação: Plataforma Interativa Acadêmica Utilizando jogos sérios e inteligência artificial. | Revista Diálogos Interdisciplinares, V. 7 N. 3 | (2018)
 
 ## Participação em Eventos (Apresentação): ENCIBRAC INTERN.
-Tema | Mes/Ano
------------- | -------------
-Ferramenta de auxílio no aprendizado para os cursos das engenharias | Set/2019
-Cálculo de decaimento de órbitas de satélites artificiais terrestres devido à ação do arrasto atmosférico | Set/2019
-Tplicação de redes neurais para sistema de comunicação autônoma | Set/2017
-Mosquiteiro Elétrico | Abr/2016
+- Ferramenta de auxílio no aprendizado para os cursos das engenharias | Set/2019
+
+- Cálculo de decaimento de órbitas de satélites artificiais terrestres devido à ação do arrasto atmosférico | Set/2019
+
+- Tplicação de redes neurais para sistema de comunicação autônoma | Set/2017
+
+- Mosquiteiro Elétrico | Abr/2016
 
 ## Participação em Eventos (Apresentação): SICINPE
-Tema | Mes/Ano
------------- | -------------
-Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte II) | Ago/2019
-Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte I) | Ago/2018
+- Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte II) | Ago/2019
+
+- Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte I) | Ago/2018
