@@ -4,7 +4,7 @@
 <head style="background-color:LightGray;">
 <img align="left" width="200" height="200" src="https://avatars2.githubusercontent.com/u/59963253?s=460&amp;u=7323bedc1340e20783e611ce1f8061503281255f&amp;v=4">
 </head>
-<body> 
+<body style="background-color:LightGray;"> 
 <!--
 <h1>Rodolfo Lyu Shimotsu</h1>
 <p>This is a paragraph.</p>
