@@ -8,3 +8,6 @@ social-network-links:
   facebook: https://www.facebook.com/slyu89/
   github: https://github.com/shimotsulyu
   linkedin: https://www.linkedin.com/in/rodolfo-lyu-shimotsu-127860179/
+share-links-active:
+  facebook: true
+  linkedin: true
