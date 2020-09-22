@@ -1,7 +1,6 @@
 
 <img align="left" width="200" height="200" src="https://avatars2.githubusercontent.com/u/59963253?s=460&amp;u=7323bedc1340e20783e611ce1f8061503281255f&amp;v=4">
 
-## Contatos
 <a href="mailto:rodolfoshimotsu@gmail.com?subject=contato_curriculo">
   <img align="right" width="85" height="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png"><a/>
   
