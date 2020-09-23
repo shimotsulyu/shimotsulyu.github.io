@@ -9,7 +9,7 @@
 <a href="https://github.com/shimotsulyu">
   <img align="right" width="35" height="35" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"><a/>
 <br>
-
+<br>
   <p>Graduado em <stroke>Engenharia Elétrica</stroke> (2019), possuo visão estratégica aliada a alta capacidade de desenvolvimento e comunicação, atuando de maneira crítica e detalhista.<br>A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos relacionado à tecnologia, realizo pesquisas, participo de eventos acadêmicos e publicações de trabalhos.</p>
 <br clear="both"/>
 
