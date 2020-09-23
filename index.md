@@ -1,10 +1,10 @@
 
 <!DOCTYPE html>
 <html>
-<!--
-<head style="background-color:LightGray;">
+<!-- style="background-color:LightGray;" -->
+<head>
 </head>
--->
+
 <body> 
 <img align="left" width="200" height="200" src="https://avatars2.githubusercontent.com/u/59963253?s=460&amp;u=7323bedc1340e20783e611ce1f8061503281255f&amp;v=4">
 <!--
@@ -23,17 +23,17 @@
 <a href="https://github.com/shimotsulyu">
   <img align="right" width="35" height="35" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"><a/>
 <br clear="both"/>
+  
+<h1 style="background-color:black;">PERFIL PROFISSIONAL</h1>
+<p>Graduado em Engenharia Elétrica (2019), possuo visão estratégica aliada a alta capacidade de desenvolvimento e comunicação, atuando de maneira crítica e detalhista.</p>
+
+A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos relacionado à tecnologia, realizo pesquisas, participo de eventos acadêmicos e publicações de trabalhos.
+
 </body>
 </html>
 <!--
 <img align="left" width="200" height="200" src="https://avatars2.githubusercontent.com/u/59963253?s=460&amp;u=7323bedc1340e20783e611ce1f8061503281255f&amp;v=4">
 -->
-
-
-## PERFIL PROFISSIONAL
-Graduado em Engenharia Elétrica (2019), possuo visão estratégica aliada a alta capacidade de desenvolvimento e comunicação, atuando de maneira crítica e detalhista.
-
-A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos relacionado à tecnologia, realizo pesquisas, participo de eventos acadêmicos e publicações de trabalhos.
 
 ## FORMAÇÃO ACADÊMICA
 **Centro Universitário Braz Cubas**
