@@ -15,7 +15,7 @@
 <br clear="both"/>
   
 <h1 style="background-color:black;">MINHA HISTÓRIA</h1>
-<img src="/shimotsulyu/teste/blob/gh-pages/img0.png?raw=true" alt="img0.png">
+<img src="https://user-images.githubusercontent.com/59963253/93972298-60b26c80-fd48-11ea-8952-55b46b898e0a.png">
 
 <h1 style="background-color:black;">PUBLICAÇÕES E TRABALHOS</h1>
 <ul>
