@@ -1,4 +1,5 @@
 <img align="left" width="300" height="300" src="https://avatars2.githubusercontent.com/u/59963253?s=460&amp;u=7323bedc1340e20783e611ce1f8061503281255f&amp;v=4">
+<h1 style="background-color:black;">PERFIL PROFISSIONAL</h1>
 <a href="mailto:rodolfoshimotsu@gmail.com?subject=contato_curriculo">
   <img align="right" width="85" height="35" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x.png"><a/>
 <a href="https://www.facebook.com/slyu89/">
@@ -8,7 +9,7 @@
 <a href="https://github.com/shimotsulyu">
   <img align="right" width="35" height="35" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"><a/>
 <br>
-<h1 style="background-color:black;">PERFIL PROFISSIONAL</h1>
+
 <p>Graduado em Engenharia Elétrica (2019), possuo visão estratégica aliada a alta capacidade de desenvolvimento e comunicação, atuando de maneira crítica e detalhista.<br>A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos relacionado à tecnologia, realizo pesquisas, participo de eventos acadêmicos e publicações de trabalhos.</p>
 <br clear="both"/>
 
