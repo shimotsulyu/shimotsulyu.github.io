@@ -13,6 +13,9 @@
 <br>
   <p>Graduado em <stroke>Engenharia Elétrica</stroke> (2019), possuo visão estratégica aliada a alta capacidade de desenvolvimento e comunicação, atuando de maneira crítica e detalhista.<br>A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos relacionado à tecnologia, realizo pesquisas, participo de eventos acadêmicos e publicações de trabalhos.</p>
 <br clear="both"/>
+  
+<h1 style="background-color:black;">MINHA HISTÓRIA</h1>
+<img src="/shimotsulyu/teste/blob/gh-pages/img0.png?raw=true" alt="img0.png">
 
 <h1 style="background-color:black;">PUBLICAÇÕES E TRABALHOS</h1>
 <ul>
