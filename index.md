@@ -2,7 +2,6 @@
 <html>
   <head>
   </head>
-
   <body>
     <img align="left" width="200" height="200" src="https://avatars2.githubusercontent.com/u/59963253?s=460&amp;u=7323bedc1340e20783e611ce1f8061503281255f&amp;v=4">
     <div id="contato" style="background-color:grey;">
@@ -30,13 +29,11 @@
       <li>- Cálculo de decaimento de órbitas de satélites artificiais terrestres devido à ação do arrasto atmosférico | Set/2019</li>
       <li>- Aplicação de redes neurais para sistema de comunicação autônoma | Set/2017</li>
     </ul>
-    </p>
     <h2 style="background-color:black;">Participação em Eventos (Apresentação): SICINPE</h2>
     <ul>
       <li>- Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte II) | Ago/2019</li>
       <li>- Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte I) | Ago/2018</li>
     </ul>
-    </p>
   </body>
 </html>
 
