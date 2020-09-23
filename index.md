@@ -18,8 +18,6 @@
     <h1 style="background-color:black;">PERFIL PROFISSIONAL</h1>
     <p>Graduado em Engenharia Elétrica (2019), possuo visão estratégica aliada a alta capacidade de desenvolvimento e comunicação, atuando de maneira crítica e detalhista.<br>A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos relacionado à tecnologia, realizo pesquisas, participo de eventos acadêmicos e publicações de trabalhos.</p>
     <br clear="both"/>
-    <br>
-    <br>
     <h1 style="background-color:black;">PUBLICAÇÕES E TRABALHOS</h1>
     <ul>
       <li>- Colaborador de Pesquisas IEAv (Instituto de Pesquisas Avançadas) | Estudo e Pequisa na área de sistemas autônomos | Jul/2019 – Mar/2020</li>
@@ -27,14 +25,17 @@
       <li>- Publicação: Plataforma Interativa Acadêmica Utilizando jogos sérios e inteligência artificial. | Revista Diálogos Interdisciplinares, V. 7 N. 3 | (2018)</li>
     </ul>
     <h2 style="background-color:black;">Participação em Eventos (Apresentação): ENCIBRAC INTERN.</h2>
-    <p>- Ferramenta de auxílio no aprendizado para os cursos das engenharias | Set/2019
-    <br>- Cálculo de decaimento de órbitas de satélites artificiais terrestres devido à ação do arrasto atmosférico | Set/2019
-    <br>- Tplicação de redes neurais para sistema de comunicação autônoma | Set/2017
-    <br>- Mosquiteiro Elétrico | Abr/2016
+    <ul>
+      <li>- Ferramenta de auxílio no aprendizado para os cursos das engenharias | Set/2019</li>
+      <li>- Cálculo de decaimento de órbitas de satélites artificiais terrestres devido à ação do arrasto atmosférico | Set/2019</li>
+      <li>- Aplicação de redes neurais para sistema de comunicação autônoma | Set/2017</li>
+    </ul>
     </p>
     <h2 style="background-color:black;">Participação em Eventos (Apresentação): SICINPE</h2>
-    <p>- Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte II) | Ago/2019
-    <br>- Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte I) | Ago/2018
+    <ul>
+      <li>- Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte II) | Ago/2019</li>
+      <li>- Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte I) | Ago/2018</li>
+    </ul>
     </p>
   </body>
 </html>
