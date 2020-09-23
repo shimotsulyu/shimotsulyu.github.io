@@ -11,6 +11,7 @@
 <h1 style="background-color:black;">PERFIL PROFISSIONAL</h1>
 <p>Graduado em Engenharia Elétrica (2019), possuo visão estratégica aliada a alta capacidade de desenvolvimento e comunicação, atuando de maneira crítica e detalhista.<br>A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos relacionado à tecnologia, realizo pesquisas, participo de eventos acadêmicos e publicações de trabalhos.</p>
 <br clear="both"/>
+
 <h1 style="background-color:black;">PUBLICAÇÕES E TRABALHOS</h1>
 <ul>
   <li>Colaborador de Pesquisas IEAv (Instituto de Pesquisas Avançadas) | Estudo e Pequisa na área de sistemas autônomos | Jul/2019 – Mar/2020</li>
