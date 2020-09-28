@@ -10,7 +10,7 @@
 <a href="https://github.com/shimotsulyu">
   <img align="right" width="35" height="35" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"><a/>
 <br>
-  <p>Graduado em <stroke>Engenharia Elétrica</stroke> (2019), possuo visão estratégica aliada a alta capacidade de desenvolvimento e comunicação, atuando de maneira crítica e detalhista.<br>A fim de ampliar meus conhecimentos, frequentemente faço leituras de artigos relacionado à tecnologia, realizo pesquisas, participo de eventos acadêmicos e publicações de trabalhos.</p>
+  <p>Rodolfo Lyu Shimotsu, 31 anos. Graduado em Engenharia Elétrica (2019). Meu hobby é programar em Python, C# e montar sistemas eletrônicos com arduíno. Gosto de automatizar todos os tipos de tarefas, pensar em soluções que agilizam processos e resolver problemas complexos. Frequentemente faço estudos e leituras para ampliar meus conhecimentos na área da tecnologia.</p>
 <br clear="both"/>
   
 <h1 style="background-color:black;">MINHA HISTÓRIA</h1>
