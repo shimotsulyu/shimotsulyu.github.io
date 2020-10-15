@@ -14,7 +14,10 @@
 <br clear="both"/>
   
 <h1 style="background-color:black;">MINHA HISTÓRIA</h1>
-<embed  src="https://github.com/shimotsulyu/shimotsulyu.github.io/blob/gh-pages/historia.mp4" autostart="false" height="30" width="144" />
+<object type='application/x-shockwave-flash' style='width:500px; height:300px;' data='https://youtu.be/dEV3Dp4h4dU'>
+	<param name='movie' value='https://youtu.be/dEV3Dp4h4dU' />
+</object>
+
 <h1 style="background-color:black;">PUBLICAÇÕES E TRABALHOS</h1>
 <ul>
   <li>Colaborador de Pesquisas IEAv (Instituto de Pesquisas Avançadas) | Estudo e Pequisa na área de sistemas autônomos | Jul/2019 – Mar/2020</li>
