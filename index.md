@@ -14,8 +14,7 @@
 <br clear="both"/>
   
 <h1 style="background-color:black;">MINHA HISTÓRIA</h1>
-<img src="https://user-images.githubusercontent.com/59963253/93972298-60b26c80-fd48-11ea-8952-55b46b898e0a.png">
-
+<embed  src="https://www.canva.com/design/DAEKsJZt8Uo/R6GbQszy-Au3kzu1T6CE1g/watch?utm_content=DAEKsJZt8Uo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" autostart="false" height="30" width="144" />
 <h1 style="background-color:black;">PUBLICAÇÕES E TRABALHOS</h1>
 <ul>
   <li>Colaborador de Pesquisas IEAv (Instituto de Pesquisas Avançadas) | Estudo e Pequisa na área de sistemas autônomos | Jul/2019 – Mar/2020</li>
