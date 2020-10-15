@@ -14,7 +14,7 @@
 <br clear="both"/>
   
 <h1 style="background-color:black;">MINHA HISTÓRIA</h1>
-<embed  src="https://www.canva.com/design/DAEKsJZt8Uo/R6GbQszy-Au3kzu1T6CE1g/watch?utm_content=DAEKsJZt8Uo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" autostart="false" height="30" width="144" />
+<embed  src="https://github.com/shimotsulyu/shimotsulyu.github.io/blob/gh-pages/historia.mp4" autostart="false" height="30" width="144" />
 <h1 style="background-color:black;">PUBLICAÇÕES E TRABALHOS</h1>
 <ul>
   <li>Colaborador de Pesquisas IEAv (Instituto de Pesquisas Avançadas) | Estudo e Pequisa na área de sistemas autônomos | Jul/2019 – Mar/2020</li>
