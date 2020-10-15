@@ -14,9 +14,7 @@
 <br clear="both"/>
   
 <h1 style="background-color:black;">MINHA HISTÓRIA</h1>
-<object type='application/x-shockwave-flash' style='width:500px; height:300px;' data='https://youtu.be/dEV3Dp4h4dU'>
-	<param name='movie' value='https://youtu.be/dEV3Dp4h4dU' />
-</object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dEV3Dp4h4dU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h1 style="background-color:black;">PUBLICAÇÕES E TRABALHOS</h1>
 <ul>
