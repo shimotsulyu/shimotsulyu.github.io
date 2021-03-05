@@ -18,7 +18,7 @@
 <h1 style="background-color:black;">EDUCATION</h1>
 <ul>
 <li>Bachelor's degreein Electrical Engineering at Centro Universitário Braz Cubas 2015-2019.</li>
-<li>Bachelor's degreein Administration at Universidade Cruzeiro do Sul (2021 - still studying)</li>
+<li>Bachelor's degreein Administration at Universidade Cruzeiro do Sul (2021 - present)</li>
 </ul>  
 <h1 style="background-color:black;">RESEARCHES AND WORKS</h1>
 <ul>
@@ -38,7 +38,7 @@
   <li>Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte I) | Ago/2018</li>
 </ul>
 
-<h1 style="background-color:black;">CERTIFICATES</h1>
+<h1 style="background-color:black;">CERTIFICATION</h1>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054384-c3695480-7d39-11eb-997f-900e030fe512.jpg"><a/>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054408-cc5a2600-7d39-11eb-8cb9-c608052cda59.jpg"><a/>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110055571-fa406a00-7d3b-11eb-9fa6-afa6ce4b9d17.png"><a/>
