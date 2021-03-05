@@ -16,9 +16,10 @@
 <br clear="both"/>
 
 <h1 style="background-color:black;">ACADEMIC FORMATION</h1>
-<p>Electrical Engineering bachelor degree at Centro Universitário Braz Cubas 2015-2019.</p>
-<p>Administration bachelor degree at Universidade Cruzeiro do Sul (2021 - still studying)</p>
-  
+<ul>
+<li>Electrical Engineering bachelor degree at Centro Universitário Braz Cubas 2015-2019.</li>
+<li>Administration bachelor degree at Universidade Cruzeiro do Sul (2021 - still studying)</li>
+</ul>  
 <h1 style="background-color:black;">RESEARCHES AND WORKS</h1>
 <ul>
   <li>Research collaborator at IEAv (Instituto de Pesquisas Avançadas) | Study and Research in the field of autonomous systems | Jul/2019 – Mar/2020</li>
