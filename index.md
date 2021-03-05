@@ -33,3 +33,19 @@
   <li>Estudo da perturbação da órbita de satélites artificiais devido à ação do arrasto atmosférico (Parte I) | Ago/2018</li>
 </ul>
 
+<h1 style="background-color:black;">CERTIFICATES</h1>
+
+<img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054384-c3695480-7d39-11eb-997f-900e030fe512.jpg"><a/>
+<img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054408-cc5a2600-7d39-11eb-8cb9-c608052cda59.jpg"><a/>
+<img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054362-be0c0a00-7d39-11eb-9146-6fffc97f1eff.jpg"><a/>
+<img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054372-bfd5cd80-7d39-11eb-84e0-f810d189e33a.jpg"><a/>
+<img align="right" width="700" height="500" src="https://github.com/shimotsulyu/shimotsulyu.github.io/files/6087601/PIBIC_2019.pdf"><a/>
+<img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054414-cebc8000-7d39-11eb-8ed9-18c98a60ad8b.jpg"><a/>
+<img align="right" width="700" height="500" src="https://github.com/shimotsulyu/shimotsulyu.github.io/files/6087603/SEMANA.DA.ENGENHARIA.2019.pdf"><a/>
+<img align="right" width="700" height="500" src="(https://user-images.githubusercontent.com/59963253/110054398-c5cbae80-7d39-11eb-8f59-ae785e6f6895.jpg"><a/>
+<img align="right" width="700" height="500" src="https://github.com/shimotsulyu/shimotsulyu.github.io/files/6087598/BOTS4U_2020.pdf"><a/>
+<img align="right" width="700" height="500" src="https://github.com/shimotsulyu/shimotsulyu.github.io/files/6087599/INTRODUCAO_PYTHON.pdf"><a/>
+<img align="right" width="700" height="500" src="https://github.com/shimotsulyu/shimotsulyu.github.io/files/6087604/SQL.SERVER.pdf"><a/>
+<img align="right" width="700" height="500" src="https://github.com/shimotsulyu/shimotsulyu.github.io/files/6087600/LINUX.INTRODUCAO.pdf"><a/>
+<img align="right" width="700" height="500" src="https://github.com/shimotsulyu/shimotsulyu.github.io/files/6087602/SEGURANCA.DA.INFORMACAO.-.PYTHON.pdf"><a/>
+
