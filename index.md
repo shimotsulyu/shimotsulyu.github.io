@@ -15,10 +15,10 @@
   <p>Rodolfo Lyu Shimotsu, 31 years old. Graduated in Electrical Engineering (2019). My hobby is programming in Python, C # and assembling electronic systems with Arduino. I like to automate all types of tasks, think of solutions that streamline processes and solve complex problems. I often do studies and readings to expand my knowledge in the area of technology.</p>
 <br clear="both"/>
 
-<h1 style="background-color:black;">ACADEMIC FORMATION</h1>
+<h1 style="background-color:black;">EDUCATION</h1>
 <ul>
-<li>Electrical Engineering bachelor degree at Centro Universitário Braz Cubas 2015-2019.</li>
-<li>Administration bachelor degree at Universidade Cruzeiro do Sul (2021 - still studying)</li>
+<li>Bachelor's degreein Electrical Engineering at Centro Universitário Braz Cubas 2015-2019.</li>
+<li>Bachelor's degreein Administration at Universidade Cruzeiro do Sul (2021 - still studying)</li>
 </ul>  
 <h1 style="background-color:black;">RESEARCHES AND WORKS</h1>
 <ul>
