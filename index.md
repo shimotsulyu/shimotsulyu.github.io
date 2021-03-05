@@ -36,10 +36,9 @@
 <h1 style="background-color:black;">CERTIFICATES</h1>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054384-c3695480-7d39-11eb-997f-900e030fe512.jpg"><a/>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054408-cc5a2600-7d39-11eb-8cb9-c608052cda59.jpg"><a/>
+<img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110055571-fa406a00-7d3b-11eb-9fa6-afa6ce4b9d17.png"><a/>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054362-be0c0a00-7d39-11eb-9146-6fffc97f1eff.jpg"><a/>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054372-bfd5cd80-7d39-11eb-84e0-f810d189e33a.jpg"><a/>
-<img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110055571-fa406a00-7d3b-11eb-9fa6-afa6ce4b9d17.png"><a/>
-<img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054414-cebc8000-7d39-11eb-8ed9-18c98a60ad8b.jpg"><a/>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110055574-fb719700-7d3b-11eb-9ddb-b36f21fb0566.png"><a/>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110054398-c5cbae80-7d39-11eb-8f59-ae785e6f6895.jpg"><a/>
 <img align="right" width="700" height="500" src="https://user-images.githubusercontent.com/59963253/110055560-f6ace300-7d3b-11eb-9191-dd75236a87b6.pngf"><a/>
