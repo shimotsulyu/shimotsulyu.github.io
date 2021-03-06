@@ -22,7 +22,7 @@
 </ul>  
 <h1 style="background-color:black;">RESEARCHES AND WORKS</h1>
 <ul>
-  <li>Research collaborator at IEAv (Instituto de Pesquisas Avançadas) | Study and Research in the field of autonomous systems | Jul/2019 – Mar/2020</li>
+  <li>Research collaborator at IEAv (Instituto de Estudos Avançados) | Study and Research in the field of autonomous systems | Jul/2019 – Mar/2020</li>
   <li>Scientific initiation scholarship: INPE (Instituto de Pesquisas Espaciais) | Study and Research in the field of artificial satellite orbits | Jul/2017 – Jul/2019</li>
   <li>Publication: Plataforma Interativa Acadêmica Utilizando jogos sérios e inteligência artificial. | Revista Diálogos Interdisciplinares, V. 7 N. 3 | (2018)</li>
 </ul>
